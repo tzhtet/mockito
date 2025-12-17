@@ -1,4 +1,4 @@
-package com.mylearn.mockito.test_doubles.fake;
+	package com.mylearn.mockito.test_doubles.fake;
 
 import java.util.Collection;
 import java.util.HashMap;
